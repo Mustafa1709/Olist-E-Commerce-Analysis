@@ -626,7 +626,6 @@ The `.pbix` file is larger than GitHub's recommended file-size limits, so the co
 ### 🔗 Power BI Dashboard & Project Files
 
 **Google Drive:**
-`[https://github.com/Mustafa1709/Olist-E-Commerce-Analysis/blob/main/Powerbi/olist-performance-Dashboard.pbix]`
 
 The folder will contain the complete Power BI dashboard and supporting project files required to explore the final analysis.
 
