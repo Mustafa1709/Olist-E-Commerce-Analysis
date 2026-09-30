@@ -541,37 +541,37 @@ Use the Power BI model as a foundation for ongoing monitoring of revenue, custom
 
 ### Overview
 
-![Olist Dashboard — Overview](Dashboard Screenshots/Customer-Dashboard.png)
+![Olist Dashboard — Overview](Dashboard-Screenshots/Overview-Dashboard.png)
 
 ### Products
 
-![Olist Dashboard — Products](Dashboard Screenshots/Products-Dashboard.png))
+![Olist Dashboard — Products](Dashboard-Screenshots/Products-Dashboard.png))
 
 ### Payments & Delivery
 
-![Olist Dashboard — Payments & Delivery](Dashboard Screenshots/Payments & Delivery-Dashboard.png))
+![Olist Dashboard — Payments & Delivery](Dashboard-Screenshots/Payments&Delivery-Dashboard.png))
 
 ### Customers
 
-![Olist Dashboard — Customers](Dashboard Screenshots/Customer-Dashboard.png))
+![Olist Dashboard — Customers](Dashboard-Screenshots/Customer-Dashboard.png))
 
 ### Sellers
 
-![Olist Dashboard — Sellers](Dashboard Screenshots/Sellers-Dashboard.png))
+![Olist Dashboard — Sellers](Dashboard-Screenshots/Sellers-Dashboard.png))
 
 ### Reviews
 
-![Olist Dashboard — Reviews](Dashboard Screenshots/Reviews-Dashboard.png))
+![Olist Dashboard — Reviews](Dashboard-Screenshots/Reviews-Dashboard.png))
 
 ### Interactive Filtering
 
 #### Filter Pane
 
-![Dynamic Filter Pane](Dashboard Screenshots/Dynamic Filter pane.png))
+![Dynamic Filter Pane](Dashboard-Screenshots/Dynamic-Filter-pane.png))
 
 #### Filter Details on Hover
 
-![Filter Details on Hover](Dashboard Screenshots/Filter details on hover.png))
+![Filter Details on Hover](Dashboard-Screenshots/Filter-details-on-hover.png))
 
 
 ---
