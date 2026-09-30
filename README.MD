@@ -625,7 +625,7 @@ Olist-Ecommerce-Analytics/
 
 **Powerbi-Olist-Dashboard:**
 
-`[Powerbi/olist-performance-Dashboard.pbix]`
+`<href="https://github.com/Mustafa1709/Olist-E-Commerce-Analysis/blob/main/Powerbi/olist-performance-Dashboard.pbix`"
 
 ---
 
