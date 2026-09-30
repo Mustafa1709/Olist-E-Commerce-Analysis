@@ -541,7 +541,7 @@ Use the Power BI model as a foundation for ongoing monitoring of revenue, custom
 
 ### Overview
 
-![Olist Dashboard — Overview](Dashboard Screenshots/Overview-Dashboard.png))
+![Olist Dashboard — Overview](Dashboard Screenshots/Customer-Dashboard.png)
 
 ### Products
 
