@@ -621,14 +621,6 @@ Olist-Ecommerce-Analytics/
 
 #  Download the Complete Power BI Dashboard
 
-The `.pbix` file is larger than GitHub's recommended file-size limits, so the complete Power BI dashboard is hosted separately.
-
-### 🔗 Power BI Dashboard & Project Files
-
-**Google Drive:**
-
-The folder will contain the complete Power BI dashboard and supporting project files required to explore the final analysis.
-
 ---
 
 # 🎯 Project Outcome
