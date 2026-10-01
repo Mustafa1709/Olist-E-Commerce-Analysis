@@ -6,7 +6,7 @@ An end-to-end **Data Analytics & Business Intelligence project** built using the
 
 The project covers the complete analytics lifecycle — from raw CSV datasets and data cleaning to **EDA, feature engineering, PostgreSQL, SQL analysis, data modeling, DAX, interactive Power BI dashboards, business insights, and recommendations**.
 
-The final solution analyzes **99,441 orders, 99,441 customers, 3,095 sellers, 32,340 products, and 73 product categories**, generating approximately **$16.1M in revenue**.
+The final solution analyzes **112,650 orders, 99,441 customers, 3,095 sellers, 32,340 products, and 73 product categories**, generating approximately **$16.1M in revenue**.
 
 ---
 
@@ -648,3 +648,11 @@ The key objective was not simply to create a visually appealing dashboard, but t
 Feel free to explore the notebooks, SQL analysis, dashboard screenshots, and Power BI report.
 
 **Built as part of my Data Analytics portfolio to demonstrate practical end-to-end analytics and Business Intelligence skills.**
+
+## License
+
+© 2026 Mohammed Mustafa. All Rights Reserved.
+
+This repository is publicly available for viewing and educational/reference purposes.
+The code, analysis, documentation, and visualizations may not be copied, reproduced,
+modified, or presented as another person's work without permission.
