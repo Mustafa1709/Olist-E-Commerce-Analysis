@@ -625,7 +625,7 @@ Olist-Ecommerce-Analytics/
 
 **Powerbi-Olist-Dashboard:**
 
-`[Powerbi/olist-performance-Dashboard.pbix]`
+[Powerbi-Olist-Dashboard (download .pbix)](https://github.com/Mustafa1709/Olist-E-Commerce-Analysis/blob/main/Powerbi/olist-performance-Dashboard.pbix)
 
 ---
 
@@ -648,6 +648,18 @@ The key objective was not simply to create a visually appealing dashboard, but t
 Feel free to explore the notebooks, SQL analysis, dashboard screenshots, and Power BI report.
 
 **Built as part of my Data Analytics portfolio to demonstrate practical end-to-end analytics and Business Intelligence skills.**
+
+## License
+
+© 2026 Mohammed Mustafa. All Rights Reserved.
+
+This repository is publicly available for viewing and educational/reference purposes.
+The code, analysis, documentation, and visualizations may not be copied, reproduced,
+modified, or presented as another person's work without permission.
+
+The datasets used in this project are third-party data and remain subject to their
+respective terms and licenses.
+
 
 ## License
 
