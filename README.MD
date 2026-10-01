@@ -659,12 +659,3 @@ modified, or presented as another person's work without permission.
 
 The datasets used in this project are third-party data and remain subject to their
 respective terms and licenses.
-
-
-## License
-
-© 2026 Mohammed Mustafa. All Rights Reserved.
-
-This repository is publicly available for viewing and educational/reference purposes.
-The code, analysis, documentation, and visualizations may not be copied, reproduced,
-modified, or presented as another person's work without permission.
